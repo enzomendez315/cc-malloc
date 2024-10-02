@@ -1,1 +1,1 @@
-# ccmalloc - Custom Concurrent Memory Allocator
+# mtmalloc - Multi-Threaded Memory Allocator
